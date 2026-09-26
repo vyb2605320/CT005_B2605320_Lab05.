@@ -1,2 +1,1 @@
-# CT005_MSSV_Lab05.
-LAB05
+## Lab05_Ex2.2: https://youtu.be/TmHcw5avHfo
